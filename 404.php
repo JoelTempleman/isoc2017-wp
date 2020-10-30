@@ -2,6 +2,7 @@
 /**
  * @package WordPress
  * @subpackage ISOC theme created by Occhio Web Development
+ *
  */
 
 	if( trim($_SERVER['REQUEST_URI'], '/') == 'stijldocument' || trim($_SERVER['REQUEST_URI'], '/') == 'testdocument' ) {
